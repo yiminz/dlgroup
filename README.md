@@ -6,4 +6,5 @@ Code Repository for:
 
 
 Maintainer.
-liubenyuan <liubenyuan at gmail DOT com>
+
+liubenyuan, Email: liubenyuan at gmail DOT com
